@@ -7,4 +7,12 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'test';
+
+  // TODO:鮭魚榮
+
+  test() {
+    if (this.title == '123') {
+
+    }
+  }
 }
